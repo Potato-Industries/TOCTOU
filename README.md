@@ -1,6 +1,6 @@
 # toctou
 
-Template TOCTOU script, uses event monitoring to append to files (useful if temporary config file uses a random name).
+Template TOCTOU script, uses event monitoring to append to files (useful if temporary config file uses a random name/folder path).
 
 Usage: 
 1. Set a 'watcher' for a file event (ahead of time). 
